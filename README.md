@@ -1,4 +1,4 @@
-Olá! Eu sou o Gustavo Luiz Dessunte Bernardes! 
+<h1>Olá! Eu sou o Gustavo Luiz Dessunte Bernardes!</h1>
 
 ![github-header-image1](./github-header-image.png)
 

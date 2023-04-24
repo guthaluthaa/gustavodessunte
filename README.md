@@ -1,6 +1,9 @@
 <h1>Olá! Eu sou o Gustavo Luiz Dessunte Bernardes!</h1>
 
+<p align="center">
 ![github-header-image1](./github-header-image.png)
+</p>
+
 
 - Atualmente estou Cursando Ciência da Computação com ênfase em Dados, na faculdade SpTech!
 - Tenho conhecimento em:

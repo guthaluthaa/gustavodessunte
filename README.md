@@ -14,6 +14,9 @@
 - Você pode me achar nas Plataformas:<br>
 <a href="https://www.linkedin.com/in/gustavo-luiz-dessunte-bernardes-6a9586223/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunasanguini" height="30" width="40" /></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavodessunte&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="gustavodessunte" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavodessunte&show_icons=true&theme=tokyonight&locale=pt-br" alt="gustavodessunte" /></p>
 <!--
 **gustavodessunte/gustavodessunte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

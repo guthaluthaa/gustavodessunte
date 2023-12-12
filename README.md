@@ -7,9 +7,9 @@
 
 - Atualmente estou Cursando Ciência da Computação com ênfase em Dados, na faculdade SpTech!
 - Tenho conhecimento em:
-  - Linguagens de programação: Xamarin, C# (CSharp), XAML, TypeScript, JavaScript e PHP,   
+  - Linguagens de programação: Xamarin, C# (CSharp), XAML, TypeScript, JavaScript, PHP, Java, MySql, SQLServer,
   - Linguagens de marcação: HTML e CSS,
-  - Frameworks: Angular, Bootstrap e Kodular;
+  - Frameworks: Angular, Bootstrap, Kodular e Amazon Web Services;
  
 - Você pode me achar nas Plataformas:<br>
 <a href="https://www.linkedin.com/in/gustavo-luiz-dessunte-bernardes-6a9586223/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunasanguini" height="30" width="40" /></a>

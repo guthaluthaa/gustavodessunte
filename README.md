@@ -8,7 +8,8 @@
 - Atualmente estou Cursando Ciência da Computação com ênfase em Dados, na faculdade SpTech!
 - Tenho conhecimento em:
   - Linguagens de programação:
-    <img src="{https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white}" /> 
+  - ![image]({BadgeURLHere})
+    <img src="[{}](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)" /> 
   - Linguagens de programação: ![image]({(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)), XAML, TypeScript, JavaScript, PHP, Java, MySql, SQLServer e Python,
   -
   - , XAML, TypeScript, JavaScript, PHP, Java, MySql, SQLServer e Python,

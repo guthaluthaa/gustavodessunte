@@ -12,7 +12,7 @@
   - Frameworks: Angular, Bootstrap, Kodular e Amazon Web Services;
  
 - Você pode me achar nas Plataformas:<br>
-<a href="https://www.linkedin.com/in/gustavo-luiz-dessunte-bernardes-6a9586223/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavodessunte" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-luiz-dessunte-bernardes-b14211287/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavodessunte" height="30" width="40" /></a>
 
 <br><br><br>
 
